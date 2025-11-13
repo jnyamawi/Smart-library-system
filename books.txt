@@ -1,0 +1,23 @@
+[
+  {
+    "book_id": "B001",
+    "title": "Python for Beginners",
+    "author": "Jane Doe",
+    "available_copies": 5,
+    "times_borrowed": 0
+  },
+  {
+    "book_id": "B002",
+    "title": "Data Structures",
+    "author": "John Smith",
+    "available_copies": 3,
+    "times_borrowed": 0
+  },
+  {
+    "book_id": "RE1234",
+    "title": "RIVER AND THE SOURCE",
+    "author": "MWAMUYE",
+    "available_copies": 3,
+    "times_borrowed": 0
+  }
+]
